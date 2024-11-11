@@ -52,8 +52,8 @@ Code is also your most important tool.
 - Prefer short functions that do only one thing
 - Avoid data mutation
 - Certainly don’t mutate input variables
-- Data, transform, transform, … , but don’t abuse lambdas
-- Prefer composition
+- Data, transform, transform, … , but don’t abuse lambdas ... pipelines
+- Prefer composition ... pipelines are naturally composable
 - Write lots of unit tests
 - Unit tests should execute rapidly
 - In Python, use type annotations
