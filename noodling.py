@@ -6,3 +6,7 @@ def drummer() -> str:
 
 def hubble() -> str:
     return "Hubble is cool!"
+
+
+def drummer_and_hubble() -> str:
+    return "Drummer and Hubble are both cool!"
