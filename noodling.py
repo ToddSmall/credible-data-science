@@ -2,3 +2,7 @@
 
 def drummer() -> str:
     return "Drummer is cool!"
+
+
+def hubble() -> str:
+    return "Hubble is cool! 🐶"
